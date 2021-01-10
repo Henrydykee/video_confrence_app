@@ -4,9 +4,13 @@ A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project i is a flutter desktop ui appllication 
+ 
+ you could check this meduim link (https://medium.com/@afegbua/flutter-thursday-12-building-with-flutter-desktop-aa3abb42fed1)
 
-A few resources to get you started if this is your first Flutter project:
+ScreeShot📸
+<img src="Screenshot 2021-01-10 at 1.09.27 PM.png" height="600em" />
+
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
